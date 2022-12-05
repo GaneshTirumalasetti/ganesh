@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.134">
+    <testcase classname="validate the Demos" name="Check the Demos" time="0.013">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given open browser..........................................................undefined
+Then user enter the url "https://www.telerik.com"...........................skipped
+And user click on Demos.....................................................skipped
+Then user navigate to Banner................................................skipped
+When user click on Services.................................................skipped
+Then user navigate to Services Banner.......................................skipped
+When user click on BLOGS....................................................skipped
+Then user navigate to BLOGS Banner..........................................skipped
+When user click on DOCS & SUPPORT...........................................skipped
+Then user navigate  on DOCS & SUPPORT Banner................................skipped
+When user click on PRICING..................................................skipped
+Then user navigate PRICING Banner...........................................skipped
+And user click on INDIVIDUAL Banner.........................................skipped
+Then user navigate to Banner................................................skipped
+And user click on progress Telerik..........................................skipped
+When user is click on Web Components........................................skipped
+Then user close the Web Component...........................................skipped
+When user click on the Desktop Components...................................skipped
+Then user close the Desktop Component.......................................skipped
+]]></failure>
+    </testcase>
+</testsuite>
